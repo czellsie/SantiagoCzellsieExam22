@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "54211685591",
+    "firebase_url": "https://santiagoczellsieexam2-64bd9.firebaseio.com",
+    "project_id": "santiagoczellsieexam2-64bd9",
+    "storage_bucket": "santiagoczellsieexam2-64bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54211685591:android:e58a9fbdb2272865",
+        "android_client_info": {
+          "package_name": "com.santiago.czellsie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54211685591-imjng66r4m7kcvbfb2q15joqu5kcdtdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santiago.czellsie",
+            "certificate_hash": "225d26461e186d9c7e6f9b9222082055522c9bea"
+          }
+        },
+        {
+          "client_id": "54211685591-dcirkmc9c3lepge3euu3fa78119rsobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPN0-PkErbTtGcPjqsEoE6bFEcNYFSCcw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54211685591-dcirkmc9c3lepge3euu3fa78119rsobk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
